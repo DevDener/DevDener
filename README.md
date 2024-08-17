@@ -6,7 +6,7 @@
 
 ## About me 🐈
 
-<li>🇧🇷 I'm a Brazilian passionate about programming</li>
+<li>🇧🇷  I'm a Brazilian passionate about programming</li>
 
 <li>🔧 Studying Control and Automation Engineering at UFPel</li>
 
