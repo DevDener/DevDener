@@ -6,11 +6,11 @@
 
 ## About me 🐈
 
-<li>🇧🇷  I'm a Brazilian passionate about programming</li>
+<li>🇧🇷 Brazilian, programming enthusiast</li>
 
 <li>🔧 Studying Control and Automation Engineering at UFPel</li>
 
-<li>💻 +PraTi FullStack Development student</li>
+<li>💻 Learning FullStack Development at +PraTi</li>
 
 <br/>
 
